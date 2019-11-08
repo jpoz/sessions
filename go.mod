@@ -1,4 +1,4 @@
-module github.com/gin-contrib/sessions
+module github.com/jpoz/sessions
 
 go 1.12
 
