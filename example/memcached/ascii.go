@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/bradfitz/gomemcache/memcache"
-	"github.com/gin-contrib/sessions"
-	"github.com/gin-contrib/sessions/memcached"
+	"github.com/jpoz/sessions"
+	"github.com/jpoz/sessions/memcached"
 	"github.com/gin-gonic/gin"
 )
 
